@@ -1,0 +1,4 @@
+
+function altenativa() {
+document.getElementById
+}

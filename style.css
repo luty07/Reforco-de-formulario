@@ -2,7 +2,7 @@ body {
     display: flex;
     background-color: blueviolet;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: aqua;
+    color: rgb(150, 15, 15);
 }
 .forms {
     padding-left: 45%;
